@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mdu:home|Door43 (mdu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mdu|d43-mdu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mdu/archive/master.zip|d43-mdu.zip]]
+
+**Recent Changes**
+{{changes>ns = mdu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mdu|Ethnologue data]]
+
